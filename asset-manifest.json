@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ashirwad-Sharma-Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Ashirwad-Sharma-Portfolio/static/js/main.c462ea73.js",
+    "static/js/453.e77e4261.chunk.js": "/Ashirwad-Sharma-Portfolio/static/js/453.e77e4261.chunk.js",
+    "static/media/c.webp": "/Ashirwad-Sharma-Portfolio/static/media/c.b7b51faa7d7d2bbbd78c.webp",
+    "static/media/a.jpeg": "/Ashirwad-Sharma-Portfolio/static/media/a.9dbc0311f53f163a9d08.jpeg",
+    "index.html": "/Ashirwad-Sharma-Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Ashirwad-Sharma-Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.c462ea73.js.map": "/Ashirwad-Sharma-Portfolio/static/js/main.c462ea73.js.map",
+    "453.e77e4261.chunk.js.map": "/Ashirwad-Sharma-Portfolio/static/js/453.e77e4261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c462ea73.js"
+  ]
+}
